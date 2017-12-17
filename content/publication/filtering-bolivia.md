@@ -49,7 +49,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_preprint = ""
-url_source = ""
+url_source = "http://onlinelibrary.wiley.com/doi/10.1002/ece3.3537/full"
 
 
 # Optional featured image (relative to `static/img/` folder).
