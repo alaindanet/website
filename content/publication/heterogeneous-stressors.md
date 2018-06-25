@@ -25,12 +25,12 @@ interpret the indicator trends observed.
 
 abstract_short = "" 
 authors = ["A Génin", "S Majumder", "S Sankaran", "FD Schneider", "A Danet", "M Berdugo", "V Guttal", "S Kéfi"]
-date = "2017-09-20"
+date = "2018-01-20"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Ecological Indicators*."
-publication_short = "In Press"
+publication = "*Ecological Indicators*. In press"
+publication_short = ""
 selected = false 
 title = "Spatially heterogeneous stressors can alter the performance of indicators of regime shifts"
 url_code = ""
@@ -41,7 +41,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_preprint = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S1470160X17307082"
 
 
 # Optional featured image (relative to `static/img/` folder).

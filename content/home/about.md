@@ -12,8 +12,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Community Ecology",
     "Theoretical Ecology",
+    "Empirical Ecology",
+    "Community Ecology",
     "Plant-Plant Interactions"
   ]
 
@@ -37,7 +38,12 @@ weight = 5
 
 # About
 
-I have just got my PhD in Ecology at the BioDICée Lab. My research interests span
-all aspects of community ecology, with a particular focus on plant communities.
-I mainly use empirical approaches but I am also highly interested by theoretical
-ones.
+My research interests span all aspects of community ecology, with an emphasis on
+plant community and biotic interactions. I am currently developing several
+research topics namely (i) the modulation of species interactions according to
+stress and disturbance, (ii) the integration of positive interactions in
+ecological theory, (iii) the effects of species interactions on the properties
+of communities and ecosystems such as their stability. I believe that consequent 
+conceptual advances in Ecology come from the close integration between
+mechanistic models and empirical observations, so I develop both theoretical and
+empirical approaches.

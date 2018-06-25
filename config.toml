@@ -46,7 +46,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "BioDICée Lab, University of Montpellier", url ="http://biodicee.edu.umontpellier.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "sp-portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "sp-portrait.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alain.danet@umontpellier.fr"
   address = "Building 22 2nd floor, Institut des Sciences de l'Évolution de Montpellier CC65, Place E. Bataillon, Montpellier, 34095 Montpellier cedex 05 – France"
   office_hours = "Email for appointment"
@@ -196,6 +196,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "//orcid.org/0000-0002-1592-9483"
 
+  [[params.cv]]
+    lang = "gb"
+    pdf = "cv.pdf"
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -211,10 +215,10 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
