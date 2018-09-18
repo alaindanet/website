@@ -15,13 +15,13 @@ selected = true
 title = "Effects of indirect facilitation on functional diversity, dominance and niche differentiation in tropical alpine communities"
 url_code = ""
 url_dataset = "https://datadryad.org/resource/doi:10.5061/dryad.cg389/1"
-url_pdf = ""
+url_pdf = "sci-hub.tw/10.1111/jvs.12667"
 url_project = ""
 url_slides = "https://speakerdeck.com/alaindanet/effect-of-indirect-facilitation-through-grazing-on-plant-community-structure-in-tropical-alpine-peatlands"
 url_video = ""
 url_poster = ""
 url_preprint = ""
-url_source = ""
+url_source = "https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12667"
 
 
 # Optional featured image (relative to `static/img/` folder).
