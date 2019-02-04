@@ -39,16 +39,22 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Alain Danet"
-  role = "Newly PhD in Ecology"
+  role = "Postdoc in Ecology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "BioDICée Lab, University of Montpellier", url ="http://biodicee.edu.umontpellier.fr/" } ]
+  organizations = [ { name = "UMR CESCO, Muséum National d'Histoire Naturelle", url ="http://cesco.mnhn.fr/en" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "sp-portrait.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "alain.danet@umontpellier.fr"
-  address = "Building 22 2nd floor, Institut des Sciences de l'Évolution de Montpellier CC65, Place E. Bataillon, Montpellier, 34095 Montpellier cedex 05 – France"
+  email = "alain.danet@mnhn.fr"
+  address ="""
+Building 61 1st floor
+UMR 7204 Centre d'Ecologie et des Sciences de la Conservation
+Muséum national d'Histoire naturelle
+61 rue Buffon
+75005 Paris - France
+"""
   office_hours = "Email for appointment"
   phone = ""
   skype = ""
@@ -82,8 +88,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 3
   map_api_key = ""
-  latitude = "43.632027"
-  longitude = "3.866410"
+  latitude = "48.84095"
+  longitude = "2.35786"
   zoom = 15
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
@@ -179,7 +185,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:alain.danet@umontpellier.fr"
+    link = "mailto:alain.danet@mnhn.fr"
 
   [[params.social]]
     icon = "github"
