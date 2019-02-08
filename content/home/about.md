@@ -15,7 +15,8 @@ weight = 5
     "Theoretical Ecology",
     "Empirical Ecology",
     "Community Ecology",
-    "Plant-Plant Interactions"
+    "Plant-Plant Interactions",
+    "Food webs"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -39,11 +40,8 @@ weight = 5
 # About
 
 My research interests span all aspects of community ecology, with an emphasis on
-plant community and biotic interactions. I am currently developing several
-research topics namely (i) the modulation of species interactions according to
-stress and disturbance, (ii) the integration of positive interactions in
-ecological theory, (iii) the effects of species interactions on the properties
-of communities and ecosystems such as their stability. I believe that consequent 
-conceptual advances in Ecology come from the close integration between
-mechanistic models and empirical observations, so I develop both theoretical and
-empirical approaches.
+plant community and biotic interactions. I investigate the modulation of species
+interactions according to environment and the effects of species interactions on
+the properties of community and ecosystems. I try to develop both theoretical
+and empirical approaches and I believe that consequent conceptual advances in
+Ecology come from the close integration of those two approaches.
